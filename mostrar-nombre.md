@@ -1,4 +1,5 @@
-# Tarjeta de Identificación
+# Mostrar Nombre
+
 ¡Vamos a hacer que nuestro nombre aparezca en la pantalla! 🌟
 
 ## {Paso 1}
@@ -27,4 +28,3 @@ Haz clic en el botón ``|Download|`` y descarga el programa en tu @boardname@.
 Asegúrate de que esté conectada a la computadora.
 
 ¡Explora 🌍, Crea 🎨, Prueba nuevas ideas 💡! ¡Diviértete 💻!
-
