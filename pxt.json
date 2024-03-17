@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "mostrar-nombre.md"
+        "mostrar-nombre.md",
+        "corazon-palpitante.md"
     ],
     "testFiles": [
         "test.ts"
