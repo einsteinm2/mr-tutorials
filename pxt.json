@@ -12,7 +12,8 @@
         "README.md",
         "mostrar-nombre.md",
         "corazon-palpitante.md",
-        "botones-emotivos.md"
+        "botones-emotivos.md",
+        "piedra-papel-tijeras.md"
     ],
     "testFiles": [
         "test.ts"
